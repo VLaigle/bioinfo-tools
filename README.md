@@ -11,3 +11,6 @@ Feel free to share yours !
 ## GO/Pathway analysis/enrichment
 - EnrichR
 - Reactome
+
+## Network data (integradtion, analysis, visualization)
+- Cytoscape (https://cytoscape.org/)
